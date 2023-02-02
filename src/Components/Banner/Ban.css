@@ -1,0 +1,45 @@
+.banner{
+    background-image: url('https://cdn.pixabay.com/photo/2020/04/28/04/03/villa-5102547_960_720.jpg');
+    background-size: cover;
+    
+    height: 500px;
+    color:  hsl(0, 0%, 100%);
+}
+
+.in{
+ 
+    padding: 114PX;
+    font-size: 2.5rem;
+    padding-right: 23px;
+    color:  #0d6efd;
+    PADDING-LEFT: 102pxpx;
+    text-shadow: 2px 3px  rgb(119, 157, 182);  
+    
+}
+
+.ww{
+    margin-top: -334px; 
+}
+.uu{
+    padding-top: 366px;
+    margin-top: -21px;
+    float: right;
+}
+
+
+.carousel-indicators{
+    display: none;
+}
+.carousel-control-next{
+    display: none;
+}
+.carousel-control-prev{
+    display: none;
+}
+
+
+.title{
+    margin-left: -85px
+    
+}
+

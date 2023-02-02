@@ -1,0 +1,61 @@
+.row{
+    margin-left: 20px;
+    color: #fff;
+}
+
+
+.ss{
+    color: rgb(241, 75, 75);
+   padding-left:30px;
+   margin-top: 1rem;
+}
+
+.posters{
+    display: flex;
+    padding: 15px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border-radius: 34px;
+ 
+   
+}
+
+
+
+
+.poster{
+    max-height: 250px;
+    margin-right: -30px;
+ 
+    
+    
+    
+  
+
+ 
+}
+
+
+.posters::-webkit-scrollbar{
+    display: none;
+}
+
+
+
+
+.re{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.re::-webkit-scrollbar{
+display: none;
+}
+
+
+.poster:hover{
+    transform: scale(2,2);
+    
+   
+}
